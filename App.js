@@ -5,7 +5,7 @@ import BiscoitoDaSorte from './src/home';
 
 export default function App() {
   return (
-    <View style={styles.container}>
+    <View>
       < BiscoitoDaSorte />
     </View>
   );
